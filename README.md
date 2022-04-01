@@ -1,5 +1,4 @@
 
-I’m interested in programming, chess, and Star Wars
 Learning Computer Science and Cyber security
 How to reach me: nanak1939@gmail.com
 
