@@ -1,6 +1,6 @@
 
 Learning Computer Science and Cyber security
-How to reach me: nanak1939@gmail.com
+How to reach me: GodsEnigma
 
 <!---
 JohnLeftTheChat/JohnLeftTheChat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
